@@ -1,0 +1,135 @@
+{
+  "products": [
+    {
+      "name": "San pham 01",
+      "price": 150,
+      "image": "https://www.growland.biz/media/image/product/7339/lg/gitternetztoepfe-rund-fuer-hydrokultur.jpg",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "title": "check 01",
+      "category": 1,
+      "id": 1
+    },
+    {
+      "name": "San pham 02",
+      "price": 200,
+      "image": "https://i.pinimg.com/736x/b1/ed/be/b1edbe2219f71f5067150856a0d43fb8.jpg",
+      "description": "Mo ta 02",
+      "title": "check 03",
+      "category": 3,
+      "id": 2
+    },
+    {
+      "name": "San pham 03",
+      "price": 300,
+      "image": "data:image/jpeg;base64,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",
+      "description": "Mo ta 03",
+      "title": "check 04",
+      "category": 2,
+      "id": 3
+    },
+    {
+      "name": "San pham 04",
+      "price": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS04Ssc_od1Sr16usWQZfIj7pgRzx5TMIUEBA&s",
+      "description": "xin chao",
+      "title": "check 05",
+      "category": 2,
+      "id": 4
+    },
+    {
+      "name": "San pham 05",
+      "price": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1iolccAzlmfXY2zLWpOnbftWFxS49I-EBykm8GzqWYrzFI6T13ptKezcfbJ74xrXny4&usqp=CAU",
+      "description": "xin chao",
+      "title": "check 06",
+      "category": 5,
+      "id": 5
+    },
+    {
+      "name": "San pham 06",
+      "price": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKFUVQfPYQHjwJ6HvzuD35UlqVJJEjI-TdeA&s",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "title": "Check 07",
+      "category": 3,
+      "id": 6
+    },
+    {
+      "name": "San pham 07",
+      "price": 150000,
+      "image": "https://cb.scene7.com/is/image/Crate/SpherePlanterDrkGreyGrpFSSS22/$web_plp_card_mobile$/240201125457/sphere-dark-gray-indoor-outdoor-planters.jpg",
+      "description": "xin chao",
+      "title": "check 08",
+      "category": 3,
+      "id": 7
+    },
+    {
+      "name": "new product699",
+      "price": 150000,
+      "image": "https://www.growland.biz/media/image/product/7339/lg/gitternetztoepfe-rund-fuer-hydrokultur.jpg",
+      "description": "san pham tot",
+      "title": "check 02",
+      "category": 5,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "trantailoi@gmail.com",
+      "password": "$2a$10$no.oCSRI9ZhYJiYFsqvT9edLnFbW97MWjRJewgM.vL.o2rOklOH2m",
+      "name": "new product699",
+      "id": 2
+    },
+    {
+      "email": "trantailoi08@gmail.com",
+      "password": "$2a$10$tMB5aYhrX0nUVap0m3calu8yvh6tOux4YE3FToGuxhUMeEJixoRhe",
+      "name": "admin77",
+      "id": 3
+    },
+    {
+      "email": "tailoitran08@gmail.com",
+      "password": "$2a$10$UdF86ECAd0m2cbhmYdxfue3hJAo0.nK7NxJMIp0HiH6LIUFJmtle6",
+      "name": "admintt",
+      "id": 4
+    },
+    {
+      "email": "trantailoi09@gmail.com",
+      "password": "$2a$10$guNN33P6iLWIbwDr.BGZ9uyK5BmrqQYBsw86d/wFuvU/iPENcJ..m",
+      "name": "1234",
+      "id": 5
+    },
+    {
+      "email": "loittph45949@fpt.edu.vn",
+      "password": "$2a$10$bCaeslKnRzogNyBfrBZq3Ox6zxMo46E/jD8sU2WYzJMp9ARimNSyW",
+      "name": "admin",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "title": "Category 01",
+      "thumbnail": "https://c8.alamy.com/compde/2mbatfb/aeonium-display-aeonium-topfausstellung-aeonium-in-topfen-terrakotta-topfe-behalter-pflanzenausstellung-terrasse-aeonium-arboreum-schwarzkopf-saftig-succul-2mbatfb.jpg",
+      "id": 1
+    },
+    {
+      "title": "Category 02",
+      "thumbnail": "https://i0.wp.com/www.adventuremo.de/wp-content/uploads/2023/03/PXL_20230218_160146076.PORTRAIT.jpg?resize=819%2C1024&ssl=1",
+      "id": 2
+    },
+    {
+      "title": "Category 03",
+      "thumbnail": "https://www.nabu-aachen.de/wp-content/uploads/2019/06/img_9551-225x300.jpg",
+      "id": 3
+    },
+    {
+      "title": "Category 04",
+      "thumbnail": "https://www.c-and-a.com/image/upload/q_auto:good,c_scale,w_251/s/editorial/garten/garten-gartenkalender-category.jpg",
+      "id": 5
+    },
+    {
+      "title": "Categoty 05",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5foIEq2PgJZTDcYto2_WEUeW8JSArUvbUmw&s",
+      "id": 6
+    }
+  ]
+}
